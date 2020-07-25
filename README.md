@@ -12,7 +12,7 @@
 </p>
 
 <h1 id="objective">:bulb: Objective</h1>
-</p>This application allows you to upload a csv file and then it lists the incomes and outcomes transactions and calculates the total in cash.
+</p>This application allows you to upload a csv file and then it lists the financials transactions of incoming and outcoming and calculates the total in cash.
 The backend of this application can be <a href="https://github.com/yesminmarie/desafio-database-upload">checked here</a>. See the model of the csv file <a href="https://github.com/yesminmarie/desafio-database-upload/blob/master/src/__tests__/import_template.csv">here</a>.</p>
 
 <h1 id="technologies">:rocket: Technologies</h1>
